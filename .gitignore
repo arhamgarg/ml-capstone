@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project files
+.DS_Store
+data/*.csv
+data/*.xls
+data/*.xlsx
+docs/
