@@ -80,6 +80,7 @@ pip install -r requirements.txt
 ```bash
 python data/download.py
 jupyter lab notebooks/
+streamlit run app/app.py
 ```
 
 ## AI use
