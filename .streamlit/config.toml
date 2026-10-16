@@ -1,0 +1,21 @@
+[browser]
+gatherUsageStats = false
+
+[client]
+toolbarMode = "minimal"
+
+[theme]
+base = "dark"
+primaryColor = "#F5B845"
+backgroundColor = "#14191E"
+secondaryBackgroundColor = "#20252A"
+textColor = "#EBE7E2"
+borderColor = "#383E43"
+dataframeBorderColor = "#383E43"
+dataframeHeaderBackgroundColor = "#20252A"
+font = "IBM Plex Sans:https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;600&display=swap, sans-serif"
+headingFont = "IBM Plex Serif:https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:wght@500&display=swap, serif"
+headingFontWeights = [500, 500, 500]
+headingFontSizes = ["2.5rem", "1.625rem", "1.25rem"]
+baseRadius = "0.25rem"
+showWidgetBorder = true
